@@ -1,4 +1,4 @@
-# Veri-Gorsellestirmede-Renk-Kullanimi
+# Veri-Görsellestirmede-Renk-Kullanimi
   Veri görselleştirme çalışmalarında grafiklerin oluşturulması sırasında bazı önemli faktörlerin oldukça hassas ve özenli bir şekilde hazırlanması gerekir. Bu faktörlerden biri olan renklerin kullanımı, grafiklerin okunabilirliğini doğrudan etkiler. Bu yüzden istatistiksel grafiklerin oluşturulması sırasında renklerin optimum kullanımı oldukça önemlidir. Özellikle günümüzde kalıtsal bir hastalık olup görülme oranı oldukça yüksek olan  ( %8.5 Erkek - %1 Kadın ) "Renk Körü" bireylerine yönelik grafiklerin hazırlanması, istatistiksel grafiklerin daha geniş kitlelerce daha iyi okunabilmesi ve bilgi kaybı yaşanmaması gibi durumlar açısından büyük önem taşımaktadır. 
 Melih Gündüz ile birlikte hazırlamış olduğumuz bu projemizde, veri görselleştirme çalışmalarında renklerin etkin ve doğru kullanımının öneminden bahsedeceğiz.
  
