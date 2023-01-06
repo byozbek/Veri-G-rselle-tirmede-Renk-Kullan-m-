@@ -35,6 +35,17 @@ Türkiyede orman sıklığı hakkında bir veri görselleştirmesi olmasına ra�
 ![WhatsApp Image 2023-01-04 at 21 28 52](https://user-images.githubusercontent.com/91890589/210628283-4e89fef4-5d9f-4961-9746-6e66499cb937.jpeg)
 ![WhatsApp Image 2023-01-04 at 21 10 58](https://user-images.githubusercontent.com/91890589/210628304-580f6219-32ba-4d3d-8866-a999398773da.jpeg)
 
+### Sankey Diyagramı, kategorik değişkenlerin düzey sayısının fazla olduğu durumlarda oldukça kullanışlı bir grafiktir. Renklerin kullanımının sankey diyagramı üzerinde oldukça büyük etkisi bulunmaktadır. Diyagram için kullanılan renklerin birbirinie yakın oluşu, değişkenlerin birbirine karışmasına yol açabilecek iken doğru renk kullanımında daha anlaşılır ve net olmaktadır. Bununla ilgili örnek iki karşılaştırma aşşağıda verilmiştir.
+![WhatsApp Image 2023-01-04 at 22 04 08](https://user-images.githubusercontent.com/91890589/210903730-8d3515aa-a5a6-4fa1-bba0-97da6ffffb36.jpeg)
+![WhatsApp Image 2023-01-04 at 22 04 08 (1)](https://user-images.githubusercontent.com/91890589/210903735-c9e8f44c-ce00-4f9e-bcf7-bd3be72fd7a1.jpeg)
 
 
 
+# Referanslar
+1) https://medium.com/@estuveribilimi/renklerin-d%C3%BCnyas%C4%B1na-ho%C5%9F-geldiniz-836f1a9525e1
+2) https://bookdown.org/content/2096/veri-gorsellestirme.html
+3) https://rpubs.com/techanswers88/sankey-with-own-data-in-ggplot
+4) https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/Al%C4%B1%C5%9Ft%C4%B1rmalar
+5) https://github.com/BlakeRMills/MetBrewer
+6) http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#a-colorblind-friendly-palette
+7) https://tevfikbulut.net/rda-statik-ve-dinamik-haritalama-vaka-calismalari-turkiye-ornegi/
