@@ -49,3 +49,5 @@ Türkiyede orman sıklığı hakkında bir veri görselleştirmesi olmasına ra�
 5) https://github.com/BlakeRMills/MetBrewer
 6) http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#a-colorblind-friendly-palette
 7) https://tevfikbulut.net/rda-statik-ve-dinamik-haritalama-vaka-calismalari-turkiye-ornegi/
+
+# Graifklerin kodlarına [buradan](https://github.com/byozbek/Veri-Gorsellestirmede-Renk-Kullanimi/blob/main/kod.R) ulaşabilirsiniz.
